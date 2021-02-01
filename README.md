@@ -9,4 +9,6 @@ Dependencies
 
 	```brew install findutils```
 
-Note, this can be slow to run and will cause any running Mail application
+Note, this can be slow to run and will cause any running Mail application.
+
+This process was developed on macOS 10.13.6 (High Sierra).
