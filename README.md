@@ -8,6 +8,10 @@ Dependencies
 * GNU Find. This can be installed with
 
 	```brew install findutils```
+	
+* [Tag utility](https://github.com/jdberry/tag). This can be installed with
+
+	```brew install tag```
 
 Note, this can be slow to run and will cause any running Mail application.
 
