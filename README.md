@@ -13,6 +13,6 @@ Dependencies
 
 	```brew install tag```
 
-Note, this can be slow to run and will cause any running Mail application.
+Note, this can be slow to run and will cause any running Mail application to be unresponsive.
 
 This process was developed on macOS 10.13.6 (High Sierra).
